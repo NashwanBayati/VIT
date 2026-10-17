@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background:rgb(253, 68, 68);
+  color: #c91c1c;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.card {
+  background: rgb(0, 0, 0);
+  padding: 30px;
+  margin: auto;
+  max-width: 400px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #ffffff;
+}
+
+p {
+  color:#ffffff;
+  font-size: 18px;
+}
+
